@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "リタ",
+  "base_artist": "amazarashi",
+  "createdAt": "2026-03-12T19:40:02.865509Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "リタ",
+      "artist": "amazarashi",
+      "has_synced": true,
+      "path": "select/01_リタ_amazarashi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "リタ",
+      "artist": "Thee Michelle Gun Elephant",
+      "has_synced": false,
+      "path": "select/02_リタ_Thee_Michelle_Gun_Elephant.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リタ",
+      "artist": "amazarashi",
+      "has_synced": false,
+      "path": "select/pl_01_リタ_amazarashi.txt"
+    }
+  ]
+}
